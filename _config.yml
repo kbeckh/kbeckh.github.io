@@ -21,14 +21,14 @@ repository               : "kbeckh/kbeckh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpg"
+  avatar           : "images/profile_photo.jpg"
   name             : "Katharina Beckh"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist, Project Lead, PhD Student"
   location         : "Cologne, Germany"
   employer         : "Fraunhofer IAIS"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

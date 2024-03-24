@@ -7,5 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist and Project Lead at Fraunhofer IAIS in a Natural Language Understanding team. Research Scientist at Lamarr Institute. 
+Data scientist and project lead at Fraunhofer Institute for Intelligent Analysis and Information Systems IAIS in a Natural Language Understanding team. Research Scientist at Lamarr Institute. 
 My background is in Cognitive Science and Human-Computer Interaction. I put emphasis on user-centred design, developing comprehensible language models and communicating machine learning developments to the public.
+
+My research focus is on explainable machine learning and I am especially interested in the question which methods best support users in understanding if or why language model predictions are correct. 

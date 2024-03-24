@@ -21,7 +21,7 @@ repository               : "kbeckh/kbeckh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "profile_photo.jpg"
   name             : "Katharina Beckh"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist, Project Lead, PhD Student"
